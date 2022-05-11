@@ -1,0 +1,25 @@
+{
+  "name": "gelatina.css",
+  "version": "1.0.0",
+  "description": "A css library for microformats2 and semantic html",
+  "main": "gelatina.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rafael-Dev-21/Gelatina.css.git"
+  },
+  "keywords": [
+    "css",
+    "sass",
+    "responsive",
+    "microformats"
+  ],
+  "author": "Rafael-Dev-21",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rafael-Dev-21/Gelatina.css/issues"
+  },
+  "homepage": "https://github.com/Rafael-Dev-21/Gelatina.css#readme"
+}
